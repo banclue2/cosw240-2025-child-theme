@@ -1,0 +1,15 @@
+{ "$schema": "https://wp.org",
+  "version": 3,
+    "styles": {
+       "color": { 
+          "background": "#7AD0EB"
+            }
+          },
+ "customTemplates": [ 
+    { 
+      "name": "bio-page", 
+      "title": "Bio Page", 
+      "postTypes": ["page"] 
+    } 
+  ] 
+}
